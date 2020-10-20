@@ -6,10 +6,11 @@ This assessment is designed to evaluate the technical and organizational skills 
 
 - Create a Branch with your surname-name name.
 - create a hello world html file
-- create an application that servers your html file
-- deploy the manifest to an (hypotetical) k8s cluster.
+- create an application that serves your html file
+- prepare the application to be runned on a k8s cluster (your html file must be reachable from your browser)
+- if you have it, deploy the application to a k8s cluster
 - setup your objects to be able to have the application reachable from your browser.
-- write everything as you would do in a IAC(infrastructure as a code) environment.
+- follow the IAC (infrastructure as a code) principles
 
 ### FAQ
 
